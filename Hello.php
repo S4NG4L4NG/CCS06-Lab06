@@ -1,0 +1,1 @@
+<?php echo "Hello World! and the date today is " . date("l jS \of F Y h:i:s A");?>
